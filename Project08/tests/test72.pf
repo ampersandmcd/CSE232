@@ -1,0 +1,7 @@
+SetPenPosition 3 8
+Repeat 2 3-9
+Turn 1
+Repeat 4 3-6
+Draw 
+Move 1
+

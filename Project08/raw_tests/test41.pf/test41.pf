@@ -1,0 +1,6 @@
+SetPenSymbol 48
+Draw
+SetPenPosition 4 6
+Draw
+SetPenPosition 8 3
+Draw

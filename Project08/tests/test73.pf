@@ -1,0 +1,7 @@
+SetDim 10 12
+Repeat 100 3-7
+Draw
+Move 1
+Turn 1
+Move 1
+Turn 3
