@@ -12,7 +12,7 @@ Dr. Bill Punch expressly granted me permission via email to publish this reposit
 
 > "You are free to publish on GitHub the work you did and show it off to anyone you like. You did the work so you should be free to do as you wish. My assumption when I taught the course was that anyone would have access to old projects anyway so I always tried to come up with new material."
 
-Please contact [andrewmcdonald27@gmail.com](andrewmcdonald27@gmail.com) with any comments, questions, or concerns, and connect with me on [LinkedIn](https://www.linkedin.com/in/andrewmcdonald27)!
+Please contact [mcdon499@msu.edu](mcdon499@msu.edu) with any comments, questions, or concerns, and connect with me on [LinkedIn](https://www.linkedin.com/in/andrewmcdonald27)!
 
 -Andrew
 
@@ -20,11 +20,11 @@ Please contact [andrewmcdonald27@gmail.com](andrewmcdonald27@gmail.com) with any
 
 Each project folder within this repository contains a PDF file with detailed specifications; below, I provide a more abstract overview of each project.
 
-The projects are numbered sequentially, with later projects becoming more complex, modular, and hierarchical. I encourage you to check out projects 9, 10, and 11 for a full taste of what I gained from CSE 232!
+The projects are numbered sequentially, with later projects becoming more complex, modular, and hierarchical. I encourage you to check out projects 4 and onwards for a full taste of what I gained from CSE 232!
 
 ### Project01
 
-- Implementation of a basic mathematical global warming model
+- Implemented a basic mathematical global warming model
     - C++ operators
     - C++ basic types
     - C++ I/O
@@ -32,29 +32,29 @@ The projects are numbered sequentially, with later projects becoming more comple
 
 ### Project02
 
-- Determine if an input integer is [_k-hyperperfect_](https://en.wikipedia.org/wiki/Hyperperfect_number)
+- Determined if an input integer is [_k-hyperperfect_](https://en.wikipedia.org/wiki/Hyperperfect_number)
     - C++ control structures
     - C++ basic libraries
     - Mathematical manipulations
 
 ### Project03 
 
-- Implement standard rock-paper-scissors game as console application
+- Implemented standard rock-paper-scissors game as console application
     - C++ control structures
     - Modular design
     - Division of responsibility
 
 ### Project04
 
-- Implement [_run-length_](https://en.wikipedia.org/wiki/Run-length_encoding) string encoder
+- Implemented [_run-length_](https://en.wikipedia.org/wiki/Run-length_encoding) string encoder
     - String manipulation
     - Modular design
     - Division of responsibility
     - Basics of compression and data structure optimization
 
-### Project 05
+### Project05
 
-- Implement [_Playfair Algorithm_](https://en.wikipedia.org/wiki/Playfair_cipher) to encrypt text
+- Implemented [_Playfair Algorithm_](https://en.wikipedia.org/wiki/Playfair_cipher) to encrypt text
     - String manipulation
     - STL Vectors
     - Modular design
@@ -62,9 +62,9 @@ The projects are numbered sequentially, with later projects becoming more comple
     - Data structures and representations
     - Basics of cryptography
 
-### Project 06
+### Project06
 
-- Implement [_Steganography_](https://en.wikipedia.org/wiki/Steganography) decoding algorithm on a Xerox DocuColor watermark
+- Implemented [_Steganography_](https://en.wikipedia.org/wiki/Steganography) decoding algorithm on a Xerox DocuColor watermark
     - Higher dimensional data structures
     - I/O parsing and validation
     - Modular design
@@ -72,14 +72,42 @@ The projects are numbered sequentially, with later projects becoming more comple
     - Problem chunking
     - Basics of cryptography
 
-### Project 07
+### Project07
 
-### Project 08
+- Implemented basic dictionary-based, four-function (delete, transpose, replace, insert) spell-checking program
+    - C++ sets
+    - STL set manipulation algorithms
+    - Comparative analysis of time complexity
+    - Efficiency-minded design
 
-### Project 09
+### Project08
 
-### Project 10
+- Implemented [KTurtle](https://en.wikipedia.org/wiki/KTurtle) script parser to draw basic ASCII shapes from user-input commands
+    - Advanced control structures
+    - I/O parsing
+    - C++ classes & structs
+    - Object-oriented design
 
-### Project 11
+### Project09
+- Implemented custom bidirectional-map data structure and associated methods with STL vector backend
+    - STL library use
+    - Data structure architecture
+    - Efficiency-minded design
 
+### Project10
+- Implemented custom bidirectional-map data structure and associated methods with traditional array backend
+    - Low-level programming
+    - References & pointers
+    - Data structure architecture
+    - Efficiency-minded design
+    - Separation of concern
+    - Fundamental array operations and algorithms
 
+### Project11
+- Implemented custom bidirectional-map data structure and associated methods with node-pointer linked list backend
+    - Low-level programming
+    - References & pointers
+    - Data structure architecture
+    - Efficiency-minded design
+    - Separation of concern
+    - Fundamental linked-list operations and algorithms
